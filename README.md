@@ -2,6 +2,10 @@
 
 [Pyxel](https://github.com/kitao/pyxel)を使ったシンプルなVJツールの実験
 
+## デモ
+
+<video src="https://github.com/user-attachments/assets/7358d0dd-740c-476e-bd0a-e4d84c8bae8b"></video>
+
 ## 機能
 
 ### エフェクト
